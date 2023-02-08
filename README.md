@@ -21,3 +21,7 @@ Integrated with Google Maps.
 ### Additional Fonts:  
   
 [Quicksand](https://github.com/Arduino3128/CoronaDashboard/blob/master/Quicksand-VariableFont_wght.ttf?raw=true)  
+
+## License
+CoronaDashboard is protected by the EPL 2.0 License.
+
